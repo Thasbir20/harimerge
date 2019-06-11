@@ -1,1 +1,1 @@
-project on ios in apple
+project on ios in redmi
